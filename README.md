@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-🎓 BCA Student at Guru Gobind Singh Indraprastha University (2022–2025)  
+🎓 BCA from Guru Gobind Singh Indraprastha University (2022–2025)  
 💻 Passionate about data, machine learning, and creating real-world projects  
 📊 Skilled in Python, SQL, Power BI, Tableau, and NLP  
 🧠 Currently sharpening skills in Data Analytics and AI  
