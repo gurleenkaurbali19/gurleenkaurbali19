@@ -49,16 +49,6 @@
 - 🌍 [**Python Django Web App**](https://github.com/gurleenkaurbali19/Python-django-orientations)  
   MVC-based web app with form handling and routing.
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurleenkaurbali19&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurleenkaurbali19&theme=tokyonight" />
-</p>
-
----
 
 ### 🌐 Let’s Connect!
 
