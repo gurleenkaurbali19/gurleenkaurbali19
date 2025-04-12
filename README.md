@@ -32,7 +32,7 @@
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Projects
 
 - 🔍 [**Article Summarization using NLP (Seq2Seq)**](https://github.com/gurleenkaurbali19/article_summarization)  
   Leveraged LSTM-based encoder-decoder model for summarizing 4500+ news articles.
