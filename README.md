@@ -1,38 +1,55 @@
 <h1 align="center">Hi 👋, I'm Gurleen Kaur Bali</h1>
 <h3 align="center">Aspiring Data Analyst | Machine Learning Enthusiast | Pythonista</h3>
-
-<p align="center">
-  <a href="https://github.com/gurleenkaurbali19">
-    <img src="https://komarev.com/ghpvc/?username=gurleenkaurbali19&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-</p>
+Welcome to my GitHub profile!  
+I am a passionate software developer and data enthusiast with expertise in Machine Learning, NLP, AI, and full-stack development. I love building innovative solutions that combine data science and modern web technologies.
 
 ---
 
-### 🚀 About Me
-
-🎓 BCA from Guru Gobind Singh Indraprastha University (2022–2025)  
-💻 Passionate about data, machine learning, and creating real-world projects  
-📊 Skilled in Python, SQL, Power BI, Tableau, and NLP  
-🧠 Currently sharpening skills in Data Analytics and AI  
-📫 Reach me at: gurleenkaurbali20@gmail.com
-
----
-
-### 💡 Tools & Technologies
+## 💡 Skills & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-ff4081?style=for-the-badge"/>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-FF9900?style=flat&logo=chainlink&logoColor=white" />
+  <img alt="Transformers" src="https://img.shields.io/badge/-Transformers-EE6C4D?style=flat&logo=transformers&logoColor=white" />
+  <img alt="AI" src="https://img.shields.io/badge/-AI-00BFFF?style=flat&logo=artificial-intelligence&logoColor=white" />
+  <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine_Learning-FF6F61?style=flat&logo=tensorflow&logoColor=white" />
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=python&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black" />
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img alt="Render" src="https://img.shields.io/badge/-Render-155CDE?style=flat&logo=render&logoColor=white" />
 </p>
 
 ---
 
-### 🌟 Projects
+## 🎥 Project Demo — IPCheck (https://ipcheck-nine.vercel.app)
+
+
+<p align="center">
+  <img src="1st_gif.gif" width="45%" />
+  <img src="2nd_gif.gif" width="45%" />
+</p>
+
+
+---
+## 🎥 Project Demo — Personal Chatbot (https://gurleenchatbot.streamlit.app/)
+<p align="center">
+  <img src="chatbot_gif.gif" width="50%" />
+  
+</p>
+
+
+### 🌟 More Projects
 
 - 🔍 [**Article Summarization using NLP (Seq2Seq)**](https://github.com/gurleenkaurbali19/article_summarization)  
   Leveraged LSTM-based encoder-decoder model for summarizing 4500+ news articles.
@@ -53,8 +70,10 @@
 ### 🌐 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurleen-kaur-bali-4b24b1252/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=notion&logoColor=white)](https://gorgeous-cardboard-907.notion.site/GURLEEN-KAUR-BALI-PORTFOLIO-180582e22306808fb849e262f8ab96dc?pvs=74)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=notion&logoColor=white)](https://gurleenkaurbali19.github.io/gurleen_kaur_bali_portfolio/)
 
 ---
 
 > “Data is the new oil, and I’m learning how to refine it every day.” 🚀
+
+---
