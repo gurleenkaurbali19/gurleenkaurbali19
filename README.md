@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gurleen Kaur Bali</h1>
 <h3 align="center">Aspiring Data Analyst | Machine Learning Enthusiast | Pythonista</h3>
+
 Welcome to my GitHub profile!  
 I am a passionate software developer and data enthusiast with expertise in Machine Learning, NLP, AI, and full-stack development. I love building innovative solutions that combine data science and modern web technologies.
 
@@ -17,7 +18,6 @@ I am a passionate software developer and data enthusiast with expertise in Machi
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-FF9900?style=flat&logo=chainlink&logoColor=white" />
   <img alt="Transformers" src="https://img.shields.io/badge/-Transformers-EE6C4D?style=flat&logo=transformers&logoColor=white" />
-  <img alt="AI" src="https://img.shields.io/badge/-AI-00BFFF?style=flat&logo=artificial-intelligence&logoColor=white" />
   <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine_Learning-FF6F61?style=flat&logo=tensorflow&logoColor=white" />
   <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=python&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
@@ -32,42 +32,26 @@ I am a passionate software developer and data enthusiast with expertise in Machi
 
 ---
 
-## 🎥 Project Demo — IPCheck (https://ipcheck-nine.vercel.app)
+## 🎥 Featured Projects
 
+### 🔹 [IPCheck — Suspicious IP Tracker](https://ipcheck-nine.vercel.app)
 
 <p align="center">
   <img src="1st_gif.gif" width="45%" />
   <img src="2nd_gif.gif" width="45%" />
 </p>
 
-
 ---
-## 🎥 Project Demo — Personal Chatbot (https://gurleenchatbot.streamlit.app/)
+
+### 🔹 [Personal Chatbot](https://gurleenchatbot.streamlit.app/)
+
 <p align="center">
   <img src="chatbot_gif.gif" width="50%" />
-  
 </p>
 
+---
 
-### 🌟 More Projects
-
-- 🔍 [**Article Summarization using NLP (Seq2Seq)**](https://github.com/gurleenkaurbali19/article_summarization)  
-  Leveraged LSTM-based encoder-decoder model for summarizing 4500+ news articles.
-
-- 🏆 [**Image Classification Model**](https://github.com/gurleenkaurbali19/Image-Classification-model)  
-  Multi-class sportsperson classifier using Haar Cascade and ML models.
-
-- 📈 [**Sales Dashboard in Tableau**](https://public.tableau.com/app/profile/gurleen.kaur.bali/viz/sales_insights_17286399081960/SalesDashboard)  
-  A dynamic dashboard showing key sales metrics and trends.
-
-- 🌐 [**English-to-Turkish Translator**](https://github.com/gurleenkaurbali19/text_translation_english_to_turkish)  
-  Real-time translator built using Hugging Face's M2M100 model + Django frontend.
-
-- 🌍 [**Python Django Web App**](https://github.com/gurleenkaurbali19/Python-django-orientations)  
-  MVC-based web app with form handling and routing.
-
-
-### 🌐 Let’s Connect!
+## 🌐 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurleen-kaur-bali-4b24b1252/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=notion&logoColor=white)](https://gurleenkaurbali19.github.io/gurleen_kaur_bali_portfolio/)
@@ -75,5 +59,3 @@ I am a passionate software developer and data enthusiast with expertise in Machi
 ---
 
 > “Data is the new oil, and I’m learning how to refine it every day.” 🚀
-
----
