@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gurleen Kaur Bali</h1>
-<h3 align="center">Aspiring Data Analyst | Machine Learning Enthusiast | Pythonista</h3>
+
 
 Welcome to my GitHub profile!  
 I am a passionate software developer and data enthusiast with expertise in Machine Learning, NLP, AI, and full-stack development. I love building innovative solutions that combine data science and modern web technologies.
