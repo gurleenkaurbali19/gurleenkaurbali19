@@ -3,7 +3,7 @@
 
 <h3 align=center>Welcome to my GitHub profile!  </h3>
 <h4 align=center>💡 Exploring, building, and learning in the world of AI & Data 🌍</h4>
----
+
 
 ## 💡 Skills & Technologies
 
