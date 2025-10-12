@@ -1,23 +1,16 @@
 <h1 align="center">Hi 👋, I'm Gurleen Kaur Bali</h1>
 
 
-Welcome to my GitHub profile!  
-I am a passionate software developer and data enthusiast with expertise in Machine Learning, NLP, AI, and full-stack development. I love building innovative solutions that combine data science and modern web technologies.
-
+<h3 align=center>Welcome to my GitHub profile!  </h3>
+<h4 align=center>💡 Exploring, building, and learning in the world of AI & Data 🌍</h4>
 ---
 
 ## 💡 Skills & Technologies
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-FF9900?style=flat&logo=chainlink&logoColor=white" />
-  <img alt="Transformers" src="https://img.shields.io/badge/-Transformers-EE6C4D?style=flat&logo=transformers&logoColor=white" />
   <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine_Learning-FF6F61?style=flat&logo=tensorflow&logoColor=white" />
   <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=python&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
@@ -40,6 +33,26 @@ I am a passionate software developer and data enthusiast with expertise in Machi
   <img src="1st_gif.gif" width="45%" />
   <img src="2nd_gif.gif" width="45%" />
 </p>
+
+---
+
+### 🔹 [SmartPitch](https://github.com/gurleenkaurbali19/SmartPitch)
+An AI-powered platform that analyzes your resume and job description using embeddings & LLMs to generate personalized job application emails.
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="smart_pitch1.gif" width="400" height="225" /><br/>
+      <sub><b>Login Page</b></sub>
+    </td>
+    <td align="center">
+      <img src="smart_pitch2.gif" width="400" height="225" /><br/>
+      <sub><b>Relevance Summary and Email drafting</b></sub>
+    </td>
+  </tr>
+</table>
+
+
+
 
 ---
 
