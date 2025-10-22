@@ -36,24 +36,6 @@
 
 ---
 
-### 🔹 [SmartPitch](https://github.com/gurleenkaurbali19/SmartPitch)
-An AI-powered platform that analyzes your resume and job description using embeddings & LLMs to generate personalized job application emails.
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="smart_pitch1.gif" width="400" height="225" /><br/>
-      <sub><b>Login Page</b></sub>
-    </td>
-    <td align="center">
-      <img src="smart_pitch2.gif" width="400" height="225" /><br/>
-      <sub><b>Relevance Summary and Email drafting</b></sub>
-    </td>
-  </tr>
-</table>
-
-
-
-
 ---
 
 ### 🔹 [Personal Chatbot](https://gurleenchatbot.streamlit.app/)
