@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Gurleen Kaur Bali</h1>
+<h3 align="center">✨ AI | Data | Full Stack ✨</h3>
+<h4 align="center">Exploring, building, and learning in the world of intelligent systems 🌍</h4>
 
+---
 
-<h3 align=center>Welcome to my GitHub profile!  </h3>
-<h4 align=center>💡 Exploring, building, and learning in the world of AI & Data 🌍</h4>
+## 🧠 About Me
+🎓 Graduate from Guru Gobind Singh Indraprastha University  
+💡 Oracle Certified Generative AI Professional  
+💻 Passionate about **AI, Data Science, and Creative Web Projects**  
+🌱 Currently exploring **AI** and **Data** 
+🚀 Always excited to bring data-driven ideas to life!
 
+---
 
 ## 💡 Skills & Technologies
 
-<p>
+<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-FF9900?style=flat&logo=chainlink&logoColor=white" />
@@ -25,9 +33,11 @@
 
 ---
 
-## 🎥 Featured Projects
+## 🎯 Featured Projects
 
-### 🔹 [IPCheck — Suspicious IP Tracker](https://ipcheck-nine.vercel.app)
+### 🧭 [IPCheck — Suspicious IP Tracker](https://ipcheck-nine.vercel.app)
+🔹 **Tech:** FastAPI, React, Random Forest, GeoIP  
+🔹 An AI-powered dashboard that detects and visualizes suspicious IP addresses on a world map.
 
 <p align="center">
   <img src="1st_gif.gif" width="45%" />
@@ -36,9 +46,9 @@
 
 ---
 
----
-
-### 🔹 [Personal Chatbot](https://gurleenchatbot.streamlit.app/)
+### 💬 [Personal Chatbot](https://gurleenchatbot.streamlit.app/)
+🔹 **Tech:** FAISS, Hugging Face, Streamlit  
+🔹 A personalized RAG + llm based that answers questions about me.
 
 <p align="center">
   <img src="chatbot_gif.gif" width="50%" />
@@ -46,11 +56,25 @@
 
 ---
 
-## 🌐 Let’s Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurleen-kaur-bali-4b24b1252/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=notion&logoColor=white)](https://gurleenkaurbali19.github.io/gurleen_kaur_bali_portfolio/)
+### 🌐 [My Portfolio](https://gurleenkaurbali19.github.io/)
+🔹 Showcases my journey, projects, and certifications in a modern UI style.  
+🔹 Built with **HTML, Tailwind CSS, and subtle animations** for a designer-inspired feel.
 
 ---
 
-> “Data is the new oil, and I’m learning how to refine it every day.” 🚀
+## 🧾 Certifications
+🏅 Oracle Cloud Infrastructure – Generative AI Professional  
+🏅 Generative AI (Microsoft + LinkedIn)  
+🏅 Data Science Job Simulation – British Airways (Forage)
+
+---
+
+## Connect with Me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurleen-kaur-bali-4b24b1252/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gurleenkaurbali19.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurleenkaurbali19@gmail.com)
+
+---
+
+> “Data is the new oil — and I’m learning how to refine it every day.” 🚀
