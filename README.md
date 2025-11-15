@@ -72,7 +72,7 @@
 ## Connect with Me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurleen-kaur-bali-4b24b1252/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gurleenkaurbali19.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gurleenkaurbali19.github.io/gurleen_kaur_bali_portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurleenkaurbali19@gmail.com)
 
 ---
