@@ -56,7 +56,7 @@
 
 ---
 
-### 🌐 [My Portfolio](https://gurleenkaurbali19.github.io/)
+### 🌐 [My Portfolio](https://gurleenkaurbali19.github.io/gurleen_kaur_bali_portfolio/)
 🔹 Showcases my journey, projects, and certifications in a modern UI style.  
 🔹 Built with **HTML, Tailwind CSS, and subtle animations** for a designer-inspired feel.
 
